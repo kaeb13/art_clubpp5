@@ -12,11 +12,17 @@ html {
 }
 
 body {
-    background: url('/media/homepage.jpg') no-repeat center center fixed;
+    background: url('/media/backgroundimagehomepage.jpg') no-repeat center center fixed;
     background-size: cover;
     height: calc(100vh - 164px);
-    color: #0000; 
-    font-family: 'Lato';
+    color: #ffff; 
+    font-family: 'Cormorant Garamond', serif;
+    font-weight: 700;
+
+}
+
+h2 {
+    font-weight: 700;
 
 }
 
@@ -38,14 +44,14 @@ body {
 }
 
 .shop-now-button {
-    background: black;
-    color: white;
+    background: #000000;
+    color: #ffff; 
     min-width: 260px;
 }
 
 .btn-black {
-    background: black;
-    color: white;
+    background: #000000;
+    color: #ffff;
 }
 
 .shop-now-button:hover,
@@ -54,10 +60,9 @@ body {
 .btn-black:hover,
 .btn-black:active,
 .btn-black:focus {
-    background: #222;
-    color: white;
+    background: #000000;
+    color: #ffff;
 }
-
 .text-black {
     color: #000 !important;
 }
