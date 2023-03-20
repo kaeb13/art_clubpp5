@@ -1,0 +1,927 @@
+{
+    "posters": [
+      {
+        "id": 1,
+        "artistId": 1,
+        "title": "Artist 1 Poster 1",
+        "format": {
+          "type": "vertical",
+          "path": "media/artist1_1.jpg"
+        },
+        "isNewArrival": true
+      },
+      {
+        "id": 2,
+        "artistId": 1,
+        "title": "Artist 1 Poster 2",
+        "format": {
+          "type": "vertical",
+          "path": "media/artist1_2.jpg"
+        },
+        "isNewArrival": true
+      },
+      {
+        "id": 3,
+        "artistId": 1,
+        "title": "Artist 1 Poster 3",
+        "format": {
+          "type": "vertical",
+          "path": "media/artist1_3.jpg"
+        },
+        "isNewArrival": true
+      },
+      {
+        "id": 4,
+        "artistId": 1,
+        "title": "Artist 1 Poster 4",
+        "format": {
+          "type": "vertical",
+          "path": "media/artist1_4.jpg"
+        },
+        "isNewArrival": true
+      },
+      {
+        "id": 5,
+        "artistId": 1,
+        "title": "Artist 1 Poster 5",
+        "format": {
+          "type": "vertical",
+          "path": "media/artist1_5.jpg"
+        },
+        "isNewArrival": false
+      },
+      {
+      "id": 6,
+      "artistId": 1,
+      "title": "Artist 1 Poster 6",
+      "format": {
+        "type": "horizontal",
+        "path": "media/artist1_6.jpg"
+      },
+      "isNewArrival": false
+    },
+    {
+        "id": 7,
+        "artistId": 1,
+        "title": "Artist 1 Poster 7",
+        "format": {
+          "type": "vertical",
+          "path": "media/artist1_7.jpg"
+        },
+        "isNewArrival": false
+      },
+      {
+        "id": 8,
+        "artistId": 1,
+        "title": "Artist 1 Poster 8",
+        "format": {
+          "type": "vertical",
+          "path": "media/artist1_8.jpg"
+        },
+        "isNewArrival": false
+      },
+      {
+        "id": 9,
+        "artistId": 1,
+        "title": "Artist 1 Poster 9",
+        "format": {
+          "type": "vertical",
+          "path": "media/artist1_9.jpg"
+        },
+        "isNewArrival": false
+      },
+      {
+        "id": 10,
+        "artistId": 2,
+        "title": "Artist 2 Poster 1",
+        "format": {
+          "type": "vertical",
+          "path": "media/artist_2_1.jpg"
+        },
+        "isNewArrival": true
+      },
+      {
+        "id": 11,
+        "artistId": 2,
+        "title": "Artist 2 Poster 2",
+        "format": {
+          "type": "vertical",
+          "path": "media/artist_2_2.jpg"
+        },
+        "isNewArrival": true
+      },
+      {
+        "id": 12,
+        "artistId": 2,
+        "title": "Artist 2 Poster 3",
+        "format": {
+          "type": "vertical",
+          "path": "media/artist_2_3.jpg"
+        },
+        "isNewArrival": true
+      },
+      {
+        "id": 11,
+        "artistId": 2,
+        "title": "Artist 2 Poster 2",
+        "format": {
+          "type": "vertical",
+          "path": "media/artist_2_2.jpg"
+        },
+        "isNewArrival": true
+      },
+      {
+        "id": 12,
+        "artistId": 2,
+        "title": "Artist 2 Poster 3",
+        "format": {
+          "type": "vertical",
+          "path": "media/artist_2_3.jpg"
+        },
+        "isNewArrival": false
+      },
+
+      {
+        "id": 13,
+        "artistId": 2,
+        "title": "Artist 2 Poster 4",
+        "format": {
+          "type": "vertical",
+          "path": "media/artist_2_4.jpg"
+        },
+        "isNewArrival": false
+      },
+      {
+        "id": 14,
+        "artistId": 2,
+        "title": "Artist 2 Poster 5",
+        "format": {
+          "type": "vertical",
+          "path": "media/artist_2_5.jpg"
+        },
+        "isNewArrival": false
+      },
+      {
+        "id": 15,
+        "artistId": 2,
+        "title": "Artist 2 Poster 6",
+        "format": {
+          "type": "vertical",
+          "path": "media/artist_2_6.jpg"
+        },
+        "isNewArrival": false
+      },
+      {
+        "id": 16,
+        "artistId": 2,
+        "title": "Artist 2 Poster 7",
+        "format": {
+          "type": "vertical",
+          "path": "media/artist_2_7.jpg"
+        },
+        "isNewArrival": false
+      },
+      {
+        "id": 17,
+        "artistId": 2,
+        "title": "Artist 2 Poster 7",
+        "format": {
+          "type": "vertical",
+          "path": "media/artist_2_7.jpg"
+        },
+        "isNewArrival": false
+      },
+      {
+        "id": 18,
+        "artistId": 3,
+        "title": "Artist 3 Poster 1",
+        "format": {
+          "type": "vertical",
+          "path": "media/artist_3_1.jpg"
+        },
+        "isNewArrival": false
+      },
+      {
+        "id": 19,
+        "artistId": 3,
+        "title": "Artist 3 Poster 2",
+        "format": {
+          "type": "vertical",
+          "path": "media/artist_3_2.jpg"
+        },
+        "isNewArrival": true
+      },
+      {
+        "id": 20,
+        "artistId": 3,
+        "title": "Artist 3 Poster 3",
+        "format": {
+          "type": "vertical",
+          "path": "media/artist_3_3.jpg"
+        },
+        "isNewArrival": true
+      },
+      {
+        "id": 21,
+        "artistId": 3,
+        "title": "Artist 3 Poster 4",
+        "format": {
+          "type": "vertical",
+          "path": "media/artist_3_4.jpg"
+        },
+        "isNewArrival": false
+      },
+      {
+        "id": 22,
+        "artistId": 3,
+        "title": "Artist 3 Poster 5",
+        "format": {
+          "type": "vertical",
+          "path": "media/artist_3_5.jpg"
+        },
+        "isNewArrival": true
+      },
+      {
+        "id": 23,
+        "artistId": 3,
+        "title": "Artist 3 Poster 6",
+        "format": {
+          "type": "vertical",
+          "path": "media/artist_3_6.jpg"
+        },
+        "isNewArrival": false
+      },
+      {
+        "id": 24,
+        "artistId": 3,
+        "title": "Artist 3 Poster 7",
+        "format": {
+          "type": "vertical",
+          "path": "media/artist_3_7.jpg"
+        },
+        "isNewArrival": false
+      },
+      {
+        "id": 25,
+        "artistId": 4,
+        "title": "Artist 4 Poster 1",
+        "format": {
+          "type": "vertical",
+          "path": "media/artist_4_1.jpg"
+        },
+        "isNewArrival": false
+      },
+      {
+        "id": 26,
+        "artistId": 4,
+        "title": "Artist 4 Poster 2",
+        "format": {
+          "type": "vertical",
+          "path": "media/artist_4_2.jpg"
+        },
+        "isNewArrival": true
+      },
+      {
+        "id": 27,
+        "artistId": 4,
+        "title": "Artist 4 Poster 3",
+        "format": {
+          "type": "vertical",
+          "path": "media/artist_4_3.jpg"
+        },
+        "isNewArrival": false
+      },
+      {
+        "id": 28,
+        "artistId": 4,
+        "title": "Artist 4 Poster 4",
+        "format": {
+          "type": "vertical",
+          "path": "media/artist_4_4.jpg"
+        },
+        "isNewArrival": false
+      },
+      {
+        "id": 29,
+        "artistId": 4,
+        "title": "Artist 4 Poster 5",
+        "format": {
+          "type": "vertical",
+          "path": "media/artist_4_5.jpg"
+        },
+        "isNewArrival": false
+      },
+      {
+        "id": 30,
+        "artistId": 4,
+        "title": "Artist 4 Poster 6",
+        "format": {
+          "type": "horizontal",
+          "path": "media/artist_4_6.jpg"
+        },
+        "isNewArrival": true
+      },
+      {
+        "id": 31,
+        "artistId": 4,
+        "title": "Artist 4 Poster 7",
+        "format": {
+          "type": "vertical",
+          "path": "media/artist_4_7.jpg"
+        },
+        "isNewArrival": true
+      },
+      {
+        "id": 32,
+        "artistId": 4,
+        "title": "Artist 4 Poster 8",
+        "format": {
+          "type": "vertical",
+          "path": "media/artist_4_8.jpg"
+        },
+        "isNewArrival": false
+      },
+      {
+        "id": 33,
+        "artistId": 4,
+        "title": "Artist 4 Poster 9",
+        "format": {
+          "type": "vertical",
+          "path": "media/artist_4_9.jpg"
+        },
+        "isNewArrival": false
+      },
+      {
+        "id": 34,
+        "artistId": 4,
+        "title": "Artist 4 Poster 10",
+        "format": {
+          "type": "vertical",
+          "path": "media/artist_4_10.jpg"
+        },
+        "isNewArrival": false
+      },
+      {
+        "id": 35,
+        "artistId": 5,
+        "title": "Artist 5 Poster 1",
+        "format": {
+          "type": "vertical",
+          "path": "media/artist_5_1.jpg"
+        },
+        "isNewArrival": false
+      },
+      {
+        "id": 36,
+        "artistId": 5,
+        "title": "Artist 5 Poster 2",
+        "format": {
+          "type": "vertical",
+          "path": "media/artist_5_2.jpg"
+        },
+        "isNewArrival": false
+      },
+      {
+        "id": 37,
+        "artistId": 5,
+        "title": "Artist 5 Poster 3",
+        "format": {
+          "type": "vertical",
+          "path": "media/artist_5_3.jpg"
+        },
+        "isNewArrival": false
+      },
+      {
+        "id": 38,
+        "artistId": 5,
+        "title": "Artist 5 Poster 4",
+        "format": {
+          "type": "vertical",
+          "path": "media/artist_5_4.jpg"
+        },
+        "isNewArrival": false
+      },
+      {
+        "id": 39,
+        "artistId": 5,
+        "title": "Artist 5 Poster 5",
+        "format": {
+          "type": "vertical",
+          "path": "media/artist_5_5.jpg"
+        },
+        "isNewArrival": false
+      },
+      {
+      "id": 40,
+      "artistId": 5,
+      "title": "Artist 5 Poster 6",
+      "format": {
+        "type": "vertical",
+        "path": "media/artist_5_6.jpg"
+      },
+      "isNewArrival": false
+    },
+    {
+        "id": 41,
+        "artistId": 5,
+        "title": "Artist 5 Poster 7",
+        "format": {
+          "type": "vertical",
+          "path": "media/artist_5_7.jpg"
+        },
+        "isNewArrival": false
+      },
+      {
+        "id": 42,
+        "artistId": 6,
+        "title": "Artist 6 Poster 1",
+        "format": {
+          "type": "vertical",
+          "path": "media/artist_6_1.jpg"
+        },
+        "isNewArrival": false
+      },
+      {
+        "id": 43,
+        "artistId": 6,
+        "title": "Artist 6 Poster 2",
+        "format": {
+          "type": "vertical",
+          "path": "media/artist_6_2.jpg"
+        },
+        "isNewArrival": true
+      },
+      {
+        "id": 43,
+        "artistId": 6,
+        "title": "Artist 6 Poster 3",
+        "format": {
+          "type": "vertical",
+          "path": "media/artist_6_3.jpg"
+        },
+        "isNewArrival": false
+      },
+      {
+        "id": 44,
+        "artistId": 6,
+        "title": "Artist 6 Poster 4",
+        "format": {
+          "type": "vertical",
+          "path": "media/artist_6_4.jpg"
+        },
+        "isNewArrival": false
+      },
+      {
+        "id": 45,
+        "artistId": 6,
+        "title": "Artist 6 Poster 5",
+        "format": {
+          "type": "horizontal",
+          "path": "media/artist_6_5.jpg"
+        },
+        "isNewArrival": false
+      },
+      {
+        "id": 46,
+        "artistId": 6,
+        "title": "Artist 6 Poster 6",
+        "format": {
+          "type": "vertical",
+          "path": "media/artist_6_6.jpg"
+        },
+        "isNewArrival": false
+      },
+      {
+        "id": 47,
+        "artistId": 6,
+        "title": "Artist 6 Poster 7",
+        "format": {
+          "type": "vertical",
+          "path": "media/artist_6_7.jpg"
+        },
+        "isNewArrival": true
+      },
+      {
+        "id": 48,
+        "artistId": 6,
+        "title": "Artist 6 Poster 8",
+        "format": {
+          "type": "vertical",
+          "path": "media/artist_6_8.jpg"
+        },
+        "isNewArrival": false
+      },
+      {
+        "id": 49,
+        "artistId": 6,
+        "title": "Artist 6 Poster 9",
+        "format": {
+          "type": "vertical",
+          "path": "media/artist_6_9.jpg"
+        },
+        "isNewArrival": false
+      },
+      {
+        "id": 50,
+        "artistId": 7,
+        "title": "Artist 7 Poster 1",
+        "format": {
+          "type": "vertical",
+          "path": "media/artist_7_1.jpg"
+        },
+        "isNewArrival": true
+      },
+      {
+        "id": 51,
+        "artistId": 7,
+        "title": "Artist 7 Poster 2",
+        "format": {
+          "type": "vertical",
+          "path": "media/artist_7_2.jpg"
+        },
+        "isNewArrival": false
+      },
+      {
+        "id": 52,
+        "artistId": 7,
+        "title": "Artist 7 Poster 3",
+        "format": {
+          "type": "vertical",
+          "path": "media/artist_7_3.jpg"
+        },
+        "isNewArrival": false
+      },
+      {
+        "id": 53,
+        "artistId": 7,
+        "title": "Artist 7 Poster 4",
+        "format": {
+          "type": "vertical",
+          "path": "media/artist_7_4.jpg"
+        },
+        "isNewArrival": false
+      },
+      {
+        "id": 54,
+        "artistId": 7,
+        "title": "Artist 7 Poster 5",
+        "format": {
+          "type": "vertical",
+          "path": "media/artist_7_5.jpg"
+        },
+        "isNewArrival": false
+      },
+      {
+        "id": 55,
+        "artistId": 7,
+        "title": "Artist 7 Poster 6",
+        "format": {
+          "type": "vertical",
+          "path": "media/artist_7_6.jpg"
+        },
+        "isNewArrival": false
+      },
+      {
+        "id": 56,
+        "artistId": 7,
+        "title": "Artist 7 Poster 7",
+        "format": {
+          "type": "vertical",
+          "path": "media/artist_7_7.jpg"
+        },
+        "isNewArrival": false
+      },
+      {
+        "id": 57,
+        "artistId": 8,
+        "title": "Artist 8 Poster 1",
+        "format": {
+          "type": "vertical",
+          "path": "media/artist_8_1.jpg"
+        },
+        "isNewArrival": true
+    },
+    {
+        "id": 58,
+        "artistId": 8,
+        "title": "Artist 8 Poster 2",
+        "format": {
+          "type": "vertical",
+          "path": "media/artist_8_2.jpg"
+        },
+        "isNewArrival": false
+    },
+    {
+        "id": 59,
+        "artistId": 8,
+        "title": "Artist 8 Poster 3",
+        "format": {
+          "type": "horizontal",
+          "path": "media/artist_8_3.jpg"
+        },
+        "isNewArrival": true
+    },
+    {
+        "id": 60,
+        "artistId": 8,
+        "title": "Artist 8 Poster 4",
+        "format": {
+          "type": "vertical",
+          "path": "media/artist_8_4.jpg"
+        },
+        "isNewArrival": false
+    },
+    {
+        "id": 61,
+        "artistId": 8,
+        "title": "Artist 8 Poster 5",
+        "format": {
+          "type": "vertical",
+          "path": "media/artist_8_5.jpg"
+        },
+        "isNewArrival": false
+    },
+    {
+        "id": 62,
+        "artistId": 8,
+        "title": "Artist 8 Poster 6",
+        "format": {
+          "type": "vertical",
+          "path": "media/artist_8_6.jpg"
+        },
+        "isNewArrival": false
+    },
+    {
+        "id": 63,
+        "artistId": 8,
+        "title": "Artist 8 Poster 7",
+        "format": {
+          "type": "vertical",
+          "path": "media/artist_8_7.jpg"
+        },
+        "isNewArrival": false
+    },
+    {
+        "id": 64,
+        "artistId": 8,
+        "title": "Artist 8 Poster 8",
+        "format": {
+          "type": "vertical",
+          "path": "media/artist_8_8.jpg"
+        },
+        "isNewArrival": false
+    },
+    {
+        "id": 65,
+        "artistId": 8,
+        "title": "Artist 8 Poster 9",
+        "format": {
+          "type": "vertical",
+          "path": "media/artist_8_9.jpg"
+        },
+        "isNewArrival": false
+    },
+    {
+        "id": 66,
+        "artistId": 9,
+        "title": "Artist 9 Poster 1",
+        "format": {
+          "type": "vertical",
+          "path": "media/artist_9_1.jpg"
+        },
+        "isNewArrival": false
+    },
+    {
+        "id": 67,
+        "artistId": 9,
+        "title": "Artist 9 Poster 2",
+        "format": {
+          "type": "vertical",
+          "path": "media/artist_9_2.jpg"
+        },
+        "isNewArrival": false
+    },
+    {
+        "id": 68,
+        "artistId": 9,
+        "title": "Artist 9 Poster 3",
+        "format": {
+          "type": "vertical",
+          "path": "media/artist_9_3.jpg"
+        },
+        "isNewArrival": false
+    },
+    {
+        "id": 69,
+        "artistId": 9,
+        "title": "Artist 9 Poster 4",
+        "format": {
+          "type": "vertical",
+          "path": "media/artist_9_4.jpg"
+        },
+        "isNewArrival": false
+    },
+    {
+        "id": 70,
+        "artistId": 9,
+        "title": "Artist 9 Poster 5",
+        "format": {
+          "type": "horizontal",
+          "path": "media/artist_9_5.jpg"
+        },
+        "isNewArrival": true
+    },
+    {
+        "id": 71,
+        "artistId": 9,
+        "title": "Artist 9 Poster 6",
+        "format": {
+          "type": "vertical",
+          "path": "media/artist_9_6.jpg"
+        },
+        "isNewArrival": false
+    }, 
+    {
+        "id": 72,
+        "artistId": 9,
+        "title": "Artist 9 Poster 7",
+        "format": {
+          "type": "vertical",
+          "path": "media/artist_9_7.jpg"
+        },
+        "isNewArrival": true
+    },
+    {
+        "id": 73,
+        "artistId": 9,
+        "title": "Artist 9 Poster 8",
+        "format": {
+          "type": "vertical",
+          "path": "media/artist_9_8.jpg"
+        },
+        "isNewArrival": false
+    },
+    {
+        "id": 74,
+        "artistId": 9,
+        "title": "Artist 9 Poster 9",
+        "format": {
+          "type": "vertical",
+          "path": "media/artist_9_9.jpg"
+        },
+        "isNewArrival": false
+    },
+    {
+        "id": 75,
+        "artistId": 9,
+        "title": "Artist 9 Poster 10",
+        "format": {
+          "type": "vertical",
+          "path": "media/artist_9_10.jpg"
+        },
+        "isNewArrival": false
+    },
+    
+    {
+        "id": 76,
+        "artistId": 9,
+        "title": "Artist 9 Poster 11",
+        "format": {
+          "type": "vertical",
+          "path": "media/artist_9_11.jpg"
+        },
+        "isNewArrival": false
+    },
+    {
+        "id": 77,
+        "artistId": 9,
+        "title": "Artist 9 Poster 12",
+        "format": {
+          "type": "horizontal",
+          "path": "media/artist_9_12.jpg"
+        },
+        "isNewArrival": false
+    },
+    {
+        "id": 78,
+        "artistId": 10,
+        "title": "Artist 10 Poster 1",
+        "format": {
+          "type": "vertical",
+          "path": "media/artist_10_1.jpg"
+        },
+        "isNewArrival": true
+    },
+    {
+        "id": 79,
+        "artistId": 10,
+        "title": "Artist 10 Poster 2",
+        "format": {
+          "type": "vertical",
+          "path": "media/artist_10_2.jpg"
+        },
+        "isNewArrival": true
+    },
+    {
+        "id": 80,
+        "artistId": 10,
+        "title": "Artist 10 Poster 3",
+        "format": {
+          "type": "vertical",
+          "path": "media/artist_10_3.jpg"
+        },
+        "isNewArrival": false
+    },
+    {
+        "id": 81,
+        "artistId": 10,
+        "title": "Artist 10 Poster 4",
+        "format": {
+          "type": "vertical",
+          "path": "media/artist_10_4.jpg"
+        },
+        "isNewArrival": false
+    },
+    {
+        "id": 81,
+        "artistId": 10,
+        "title": "Artist 10 Poster 5",
+        "format": {
+          "type": "vertical",
+          "path": "media/artist_10_5.jpg"
+        },
+        "isNewArrival": false
+    },
+    {
+        "id": 82,
+        "artistId": 10,
+        "title": "Artist 10 Poster 6",
+        "format": {
+          "type": "vertical",
+          "path": "media/artist_10_6.jpg"
+        },
+        "isNewArrival": false
+    },
+    {
+        "id": 83,
+        "artistId": 11,
+        "title": "Artist 11 Poster 1",
+        "format": {
+          "type": "vertical",
+          "path": "media/artist_11_1.jpg"
+        },
+        "isNewArrival": true
+    },
+    {
+        "id": 84,
+        "artistId": 11,
+        "title": "Artist 11 Poster 2",
+        "format": {
+          "type": "vertical",
+          "path": "media/artist_11_2.jpg"
+        },
+        "isNewArrival": false
+    },
+    {
+        "id": 85,
+        "artistId": 11,
+        "title": "Artist 11 Poster 3",
+        "format": {
+          "type": "vertical",
+          "path": "media/artist_11_3.jpg"
+        },
+        "isNewArrival": false
+    },
+    {
+        "id": 86,
+        "artistId": 11,
+        "title": "Artist 11 Poster 4",
+        "format": {
+          "type": "vertical",
+          "path": "media/artist_11_4.jpg"
+        },
+        "isNewArrival": false
+    },
+    {
+        "id": 87,
+        "artistId": 11,
+        "title": "Artist 11 Poster 5",
+        "format": {
+          "type": "horizontal",
+          "path": "media/artist_11_5.jpg"
+        },
+        "isNewArrival": true
+    },
+    {
+        "id": 88,
+        "artistId": 11,
+        "title": "Artist 11 Poster 6",
+        "format": {
+          "type": "horizontal",
+          "path": "media/artist_11_6.jpg"
+        },
+        "isNewArrival": false
+    }   
+      
+    ]
+  }
