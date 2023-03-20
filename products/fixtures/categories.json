@@ -1,48 +1,94 @@
-{
-    "artists": [
-      {
-        "id": 1,
-        "name": "Artist 1"
-      },
-      {
-        "id": 2,
-        "name": "Artist 2"
-      },
-      {
-        "id": 3,
-        "name": "Artist 3"
-      },
-      {
-        "id": 4,
-        "name": "Artist 4"
-      },
-      {
-        "id": 5,
-        "name": "Artist 5"
-      },
-      {
-        "id": 6,
-        "name": "Artist 6"
-      },
-      {
-        "id": 7,
-        "name": "Artist 7"
-      },
-      {
-        "id": 8,
-        "name": "Artist 8"
-      },
-      {
-        "id": 9,
-        "name": "Artist 9"
-      },
-      {
-        "id": 10,
-        "name": "Artist 10"
-      },
-      {
-        "id": 11,
-        "name": "Artist 11"
-      }
-    ]
+[
+  {
+    "model": "products.artist",
+    "pk": 1,
+    "fields": {
+      "name": "Artist 1"
+    }
+  },
+  {
+    "model": "products.artist",
+    "pk": 2,
+    "fields": {
+      "name": "Artist 2"
+    }
+  },
+  {
+    "model": "products.artist",
+    "pk": 3,
+    "fields": {
+      "name": "Artist 3"
+    }
   }
+  ,
+  {
+    "model": "products.artist",
+    "pk": 4,
+    "fields": {
+      "name": "Artist 4"
+    }
+  },
+  {
+    "model": "products.artist",
+    "pk": 4,
+    "fields": {
+      "name": "Artist 4"
+    }
+  },
+  {
+    "model": "products.artist",
+    "pk": 4,
+    "fields": {
+      "name": "Artist 4"
+    }
+  },
+  {
+    "model": "products.artist",
+    "pk": 5,
+    "fields": {
+      "name": "Artist 5"
+    }
+  },
+  {
+    "model": "products.artist",
+    "pk": 6,
+    "fields": {
+      "name": "Artist 6"
+    }
+  },
+  {
+    "model": "products.artist",
+    "pk": 7,
+    "fields": {
+      "name": "Artist 7"
+    }
+  },
+  {
+    "model": "products.artist",
+    "pk": 8,
+    "fields": {
+      "name": "Artist 8"
+    }
+  }, 
+  {
+    "model": "products.artist",
+    "pk": 9,
+    "fields": {
+      "name": "Artist 9"
+    }
+  },
+  {
+    "model": "products.artist",
+    "pk": 10,
+    "fields": {
+      "name": "Artist 10"
+    }
+  },
+  {
+    "model": "products.artist",
+    "pk": 11,
+    "fields": {
+      "name": "Artist 11"
+    }
+  }
+]
