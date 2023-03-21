@@ -43,6 +43,7 @@ def all_products(request):
 
     return render(request, 'products/products.html', context)
 
+
 def product_detail(request, pk):
     """ A view to show the details of a single product """
     product = get_object_or_404(Poster, pk=pk)
