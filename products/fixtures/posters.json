@@ -6,9 +6,9 @@
       "title": "Artist 1 Poster 1",
       "artist": 1,
       "format_type": "vertical",
-      "image_path": "media/artist_1_1.jpg",
+      "image_path": "/media/artist_1_1.jpg",
       "is_new_arrival": false,
-      "price": "19.99"
+      "price": 19.99
     }
   },
   {
@@ -18,9 +18,9 @@
       "title": "Artist 1 Poster 2",
       "artist": 1,
       "format_type": "vertical",
-      "image_path": "media/artist_1_2.jpg",
+      "image_path": "/media/artist_1_2.jpg",
       "is_new_arrival": false,
-      "price": "19.99"
+      "price": 19.99
     }
   },
   {
@@ -30,9 +30,9 @@
       "title": "Artist 1 Poster 3",
       "artist": 1,
       "format_type": "vertical",
-      "image_path": "media/artist_1_3.jpg",
+      "image_path": "/media/artist_1_3.jpg",
       "is_new_arrival": false,
-      "price": "19.99"
+      "price": 19.99
     }
   },
   {
@@ -42,9 +42,9 @@
       "title": "Artist 1 Poster 4",
       "artist": 1,
       "format_type": "vertical",
-      "image_path": "media/artist_1_4.jpg",
+      "image_path": "/media/artist_1_4.jpg",
       "is_new_arrival": true,
-      "price": "19.99"
+      "price": 19.99
     }
   },
   {
@@ -54,9 +54,9 @@
       "title": "Artist 1 Poster 5",
       "artist": 1,
       "format_type": "vertical",
-      "image_path": "media/artist_1_5.jpg",
+      "image_path": "/media/artist_1_5.jpg",
       "is_new_arrival": false,
-      "price": "19.99"
+      "price": 19.99
     }
   },
   {
@@ -66,9 +66,9 @@
       "title": "Artist 1 Poster 6",
       "artist": 1,
       "format_type": "horizontal",
-      "image_path": "media/artist_1_6.jpg",
+      "image_path": "/media/artist_1_6.jpg",
       "is_new_arrival": true,
-      "price": "19.99"
+      "price": 19.99
     }
   },
   {
@@ -78,9 +78,9 @@
       "title": "Artist 1 Poster 7",
       "artist": 1,
       "format_type": "vertical",
-      "image_path": "media/artist_1_7.jpg",
+      "image_path": "/media/artist_1_7.jpg",
       "is_new_arrival": false,
-      "price": "19.99"
+      "price": 19.99
     }
   },
   {
@@ -90,9 +90,9 @@
       "title": "Artist 1 Poster 8",
       "artist": 1,
       "format_type": "vertical",
-      "image_path": "media/artist_1_8.jpg",
+      "image_path": "/media/artist_1_8.jpg",
       "is_new_arrival": false,
-      "price": "19.99"
+      "price": 19.99
     }
   },
   {
@@ -102,9 +102,9 @@
       "title": "Artist 1 Poster 9",
       "artist": 1,
       "format_type": "vertical",
-      "image_path": "media/artist_1_9.jpg",
+      "image_path": "/media/artist_1_9.jpg",
       "is_new_arrival": false,
-      "price": "19.99"
+      "price": 19.99
     }
   },
   {
@@ -114,9 +114,9 @@
       "title": "Artist 2 Poster 1",
       "artist": 2,
       "format_type": "vertical",
-      "image_path": "media/artist_2_1.jpg",
+      "image_path": "/media/artist_2_1.jpg",
       "is_new_arrival": false,
-      "price": "19.99"
+      "price": 19.99
     }
   },
   {
@@ -126,9 +126,9 @@
       "title": "Artist 2 Poster 2",
       "artist": 2,
       "format_type": "vertical",
-      "image_path": "media/artist_2_2.jpg",
+      "image_path": "/media/artist_2_2.jpg",
       "is_new_arrival": true,
-      "price": "19.99"
+      "price": 19.99
     }
   },
   {
@@ -138,9 +138,9 @@
       "title": "Artist 2 Poster 3",
       "artist": 2,
       "format_type": "vertical",
-      "image_path": "media/artist_2_3.jpg",
+      "image_path": "/media/artist_2_3.jpg",
       "is_new_arrival": false,
-      "price": "19.99"
+      "price": 19.99
     }
   },
   {
@@ -150,9 +150,9 @@
       "title": "Artist 2 Poster 4",
       "artist": 2,
       "format_type": "vertical",
-      "image_path": "media/artist_2_4.jpg",
+      "image_path": "/media/artist_2_4.jpg",
       "is_new_arrival": false,
-      "price": "19.99"
+      "price": 19.99
     }
   },
   {
@@ -162,9 +162,9 @@
       "title": "Artist 2 Poster 5",
       "artist": 2,
       "format_type": "vertical",
-      "image_path": "media/artist_2_5.jpg",
+      "image_path": "/media/artist_2_5.jpg",
       "is_new_arrival": false,
-      "price": "19.99"
+      "price": 19.99
     }
   },
   {
@@ -174,9 +174,9 @@
       "title": "Artist 2 Poster 6",
       "artist": 2,
       "format_type": "vertical",
-      "image_path": "media/artist_2_6.jpg",
+      "image_path": "/media/artist_2_6.jpg",
       "is_new_arrival": false,
-      "price": "19.99"
+      "price": 19.99
     }
   },
   {
@@ -186,9 +186,9 @@
       "title": "Artist 2 Poster 7",
       "artist": 2,
       "format_type": "vertical",
-      "image_path": "media/artist_2_7.jpg",
+      "image_path": "/media/artist_2_7.jpg",
       "is_new_arrival": false,
-      "price": "19.99"
+      "price": 19.99
     }
   },
   {
@@ -198,9 +198,9 @@
       "title": "Artist 3 Poster 1",
       "artist": 3,
       "format_type": "vertical",
-      "image_path": "media/artist_3_1.jpg",
+      "image_path": "/media/artist_3_1.jpg",
       "is_new_arrival": true,
-      "price": "19.99"
+      "price": 19.99
     }
   },
   {
@@ -210,9 +210,9 @@
       "title": "Artist 3 Poster 2",
       "artist": 3,
       "format_type": "vertical",
-      "image_path": "media/artist_3_2.jpg",
+      "image_path": "/media/artist_3_2.jpg",
       "is_new_arrival": false,
-      "price": "19.99"
+      "price": 19.99
     }
   },
   {
@@ -222,9 +222,9 @@
       "title": "Artist 3 Poster 3",
       "artist": 3,
       "format_type": "vertical",
-      "image_path": "media/artist_3_3.jpg",
+      "image_path": "/media/artist_3_3.jpg",
       "is_new_arrival": false,
-      "price": "19.99"
+      "price": 19.99
     }
   },
   {
@@ -234,9 +234,9 @@
       "title": "Artist 3 Poster 4",
       "artist": 3,
       "format_type": "vertical",
-      "image_path": "media/artist_3_4.jpg",
+      "image_path": "/media/artist_3_4.jpg",
       "is_new_arrival": false,
-      "price": "19.99"
+      "price": 19.99
     }
   },
   {
@@ -246,9 +246,9 @@
       "title": "Artist 3 Poster 5",
       "artist": 3,
       "format_type": "vertical",
-      "image_path": "media/artist_3_5.jpg",
+      "image_path": "/media/artist_3_5.jpg",
       "is_new_arrival": true,
-      "price": "19.99"
+      "price": 19.99
     }
   },
   {
@@ -258,9 +258,9 @@
       "title": "Artist 3 Poster 6",
       "artist": 3,
       "format_type": "vertical",
-      "image_path": "media/artist_3_6.jpg",
+      "image_path": "/media/artist_3_6.jpg",
       "is_new_arrival": false,
-      "price": "19.99"
+      "price": 19.99
     }
   },
   {
@@ -270,9 +270,9 @@
       "title": "Artist 3 Poster 7",
       "artist": 3,
       "format_type": "vertical",
-      "image_path": "media/artist_3_7.jpg",
+      "image_path": "/media/artist_3_7.jpg",
       "is_new_arrival": false,
-      "price": "19.99"
+      "price": 19.99
     }
   },
   {
@@ -282,9 +282,9 @@
       "title": "Artist 4 Poster 1",
       "artist": 4,
       "format_type": "vertical",
-      "image_path": "media/artist_4_1.jpg",
+      "image_path": "/media/artist_4_1.jpg",
       "is_new_arrival": false,
-      "price": "19.99"
+      "price": 19.99
     }
   },
   {
@@ -294,9 +294,9 @@
       "title": "Artist 4 Poster 2",
       "artist": 4,
       "format_type": "vertical",
-      "image_path": "media/artist_4_2.jpg",
+      "image_path": "/media/artist_4_2.jpg",
       "is_new_arrival": false,
-      "price": "19.99"
+      "price": 19.99
     }
   },
   {
@@ -306,9 +306,9 @@
       "title": "Artist 4 Poster 3",
       "artist": 4,
       "format_type": "vertical",
-      "image_path": "media/artist_4_3.jpg",
+      "image_path": "/media/artist_4_3.jpg",
       "is_new_arrival": false,
-      "price": "19.99"
+      "price": 19.99
     }
   },
   {
@@ -318,9 +318,9 @@
       "title": "Artist 4 Poster 4",
       "artist": 4,
       "format_type": "vertical",
-      "image_path": "media/artist_4_4.jpg",
+      "image_path": "/media/artist_4_4.jpg",
       "is_new_arrival": false,
-      "price": "19.99"
+      "price": 19.99
     }
   },
   {
@@ -330,9 +330,9 @@
       "title": "Artist 4 Poster 5",
       "artist": 4,
       "format_type": "vertical",
-      "image_path": "media/artist_4_5.jpg",
+      "image_path": "/media/artist_4_5.jpg",
       "is_new_arrival": true,
-      "price": "19.99"
+      "price": 19.99
     }
   },
   {
@@ -342,9 +342,9 @@
       "title": "Artist 4 Poster 6",
       "artist": 4,
       "format_type": "horizontal",
-      "image_path": "media/artist_4_6.jpg",
+      "image_path": "/media/artist_4_6.jpg",
       "is_new_arrival": false,
-      "price": "19.99"
+      "price": 19.99
     }
   },
   {
@@ -354,9 +354,9 @@
       "title": "Artist 4 Poster 7",
       "artist": 4,
       "format_type": "vertical",
-      "image_path": "media/artist_4_7.jpg",
+      "image_path": "/media/artist_4_7.jpg",
       "is_new_arrival": false,
-      "price": "19.99"
+      "price": 19.99
     }
   },
   {
@@ -366,9 +366,9 @@
       "title": "Artist 4 Poster 8",
       "artist": 4,
       "format_type": "vertical",
-      "image_path": "media/artist_4_8.jpg",
+      "image_path": "/media/artist_4_8.jpg",
       "is_new_arrival": false,
-      "price": "19.99"
+      "price": 19.99
     }
   },
   {
@@ -378,9 +378,9 @@
       "title": "Artist 4 Poster 9",
       "artist": 4,
       "format_type": "vertical",
-      "image_path": "media/artist_4_9.jpg",
+      "image_path": "/media/artist_4_9.jpg",
       "is_new_arrival": true,
-      "price": "19.99"
+      "price": 19.99
     }
   },
   {
@@ -390,9 +390,9 @@
       "title": "Artist 4 Poster 10",
       "artist": 4,
       "format_type": "vertical",
-      "image_path": "media/artist_4_10.jpg",
+      "image_path": "/media/artist_4_10.jpg",
       "is_new_arrival": false,
-      "price": "19.99"
+      "price": 19.99
     }
   },
   {
@@ -402,9 +402,9 @@
       "title": "Artist 5 Poster 1",
       "artist": 5,
       "format_type": "vertical",
-      "image_path": "media/artist_5_1.jpg",
+      "image_path": "/media/artist_5_1.jpg",
       "is_new_arrival": false,
-      "price": "19.99"
+      "price": 19.99
     }
   },
   {
@@ -414,9 +414,9 @@
       "title": "Artist 5 Poster 2",
       "artist": 5,
       "format_type": "vertical",
-      "image_path": "media/artist_5_2.jpg",
+      "image_path": "/media/artist_5_2.jpg",
       "is_new_arrival": false,
-      "price": "19.99"
+      "price": 19.99
     }
   },
   {
@@ -426,9 +426,9 @@
       "title": "Artist 5 Poster 3",
       "artist": 5,
       "format_type": "vertical",
-      "image_path": "media/artist_5_3.jpg",
+      "image_path": "/media/artist_5_3.jpg",
       "is_new_arrival": false,
-      "price": "19.99"
+      "price": 19.99
     }
   },
   {
@@ -438,9 +438,9 @@
       "title": "Artist 5 Poster 4",
       "artist": 5,
       "format_type": "vertical",
-      "image_path": "media/artist_5_4.jpg",
+      "image_path": "/media/artist_5_4.jpg",
       "is_new_arrival": false,
-      "price": "19.99"
+      "price": 19.99
     }
   },
   {
@@ -450,9 +450,9 @@
       "title": "Artist 5 Poster 5",
       "artist": 5,
       "format_type": "vertical",
-      "image_path": "media/artist_5_5.jpg",
+      "image_path": "/media/artist_5_5.jpg",
       "is_new_arrival": false,
-      "price": "19.99"
+      "price": 19.99
     }
   },
   {
@@ -462,9 +462,9 @@
       "title": "Artist 5 Poster 6",
       "artist": 5,
       "format_type": "vertical",
-      "image_path": "media/artist_5_6.jpg",
+      "image_path": "/media/artist_5_6.jpg",
       "is_new_arrival": false,
-      "price": "19.99"
+      "price": 19.99
     }
   },
   {
@@ -474,9 +474,9 @@
       "title": "Artist 6 Poster 1",
       "artist": 6,
       "format_type": "vertical",
-      "image_path": "media/artist_6_1.jpg",
+      "image_path": "/media/artist_6_1.jpg",
       "is_new_arrival": false,
-      "price": "19.99"
+      "price": 19.99
     }
   },
   {
@@ -486,9 +486,9 @@
       "title": "Artist 6 Poster 2",
       "artist": 6,
       "format_type": "vertical",
-      "image_path": "media/artist_6_2.jpg",
+      "image_path": "/media/artist_6_2.jpg",
       "is_new_arrival": false,
-      "price": "19.99"
+      "price": 19.99
     }
   },
   {
@@ -498,9 +498,9 @@
       "title": "Artist 6 Poster 3",
       "artist": 6,
       "format_type": "vertical",
-      "image_path": "media/artist_6_3.jpg",
+      "image_path": "/media/artist_6_3.jpg",
       "is_new_arrival": false,
-      "price": "19.99"
+      "price": 19.99
     }
   },
   {
@@ -510,9 +510,9 @@
       "title": "Artist 6 Poster 4",
       "artist": 6,
       "format_type": "vertical",
-      "image_path": "media/artist_6_4.jpg",
+      "image_path": "/media/artist_6_4.jpg",
       "is_new_arrival": false,
-      "price": "19.99"
+      "price": 19.99
     }
   },
   {
@@ -522,9 +522,9 @@
       "title": "Artist 6 Poster 5",
       "artist": 6,
       "format_type": "horizontal",
-      "image_path": "media/artist_6_5.jpg",
+      "image_path": "/media/artist_6_5.jpg",
       "is_new_arrival": false,
-      "price": "19.99"
+      "price": 19.99
     }
   },
   {
@@ -534,9 +534,9 @@
       "title": "Artist 6 Poster 6",
       "artist": 6,
       "format_type": "vertical",
-      "image_path": "media/artist_6_6.jpg",
+      "image_path": "/media/artist_6_6.jpg",
       "is_new_arrival": false,
-      "price": "19.99"
+      "price": 19.99
     }
   },
   {
@@ -546,9 +546,9 @@
       "title": "Artist 6 Poster 7",
       "artist": 6,
       "format_type": "vertical",
-      "image_path": "media/artist_6_7.jpg",
+      "image_path": "/media/artist_6_7.jpg",
       "is_new_arrival": false,
-      "price": "19.99"
+      "price": 19.99
     }
   },
   {
@@ -558,9 +558,9 @@
       "title": "Artist 6 Poster 8",
       "artist": 6,
       "format_type": "vertical",
-      "image_path": "media/artist_6_8.jpg",
+      "image_path": "/media/artist_6_8.jpg",
       "is_new_arrival": true,
-      "price": "19.99"
+      "price": 19.99
     }
   },
   {
@@ -570,9 +570,9 @@
       "title": "Artist 6 Poster 9",
       "artist": 6,
       "format_type": "vertical",
-      "image_path": "media/artist_6_9.jpg",
+      "image_path": "/media/artist_6_9.jpg",
       "is_new_arrival": false,
-      "price": "19.99"
+      "price": 19.99
     }
   },
   {
@@ -582,9 +582,9 @@
       "title": "Artist 7 Poster 1",
       "artist": 7,
       "format_type": "vertical",
-      "image_path": "media/artist_7_1.jpg",
+      "image_path": "/media/artist_7_1.jpg",
       "is_new_arrival": false,
-      "price": "19.99"
+      "price": 19.99
     }
   },
   {
@@ -594,9 +594,9 @@
       "title": "Artist 7 Poster 1",
       "artist": 7,
       "format_type": "vertical",
-      "image_path": "media/artist_7_1.jpg",
+      "image_path": "/media/artist_7_1.jpg",
       "is_new_arrival": false,
-      "price": "19.99"
+      "price": 19.99
     }
   },
   {
@@ -606,9 +606,9 @@
       "title": "Artist 7 Poster 2",
       "artist": 7,
       "format_type": "vertical",
-      "image_path": "media/artist_7_2.jpg",
+      "image_path": "/media/artist_7_2.jpg",
       "is_new_arrival": false,
-      "price": "19.99"
+      "price": 19.99
     }
   },
   {
@@ -618,9 +618,9 @@
       "title": "Artist 7 Poster 3",
       "artist": 7,
       "format_type": "vertical",
-      "image_path": "media/artist_7_3.jpg",
+      "image_path": "/media/artist_7_3.jpg",
       "is_new_arrival": false,
-      "price": "19.99"
+      "price": 19.99
     }
   },
   {
@@ -630,9 +630,9 @@
       "title": "Artist 7 Poster 5",
       "artist": 7,
       "format_type": "vertical",
-      "image_path": "media/artist_7_5.jpg",
+      "image_path": "/media/artist_7_5.jpg",
       "is_new_arrival": false,
-      "price": "19.99"
+      "price": 19.99
     }
   },
   {
@@ -642,9 +642,9 @@
       "title": "Artist 7 Poster 6",
       "artist": 7,
       "format_type": "vertical",
-      "image_path": "media/artist_7_6.jpg",
+      "image_path": "/media/artist_7_6.jpg",
       "is_new_arrival": false,
-      "price": "19.99"
+      "price": 19.99
     }
   },
   {
@@ -654,9 +654,9 @@
       "title": "Artist 7 Poster 7",
       "artist": 7,
       "format_type": "vertical",
-      "image_path": "media/artist_7_7.jpg",
+      "image_path": "/media/artist_7_7.jpg",
       "is_new_arrival": true,
-      "price": "19.99"
+      "price": 19.99
     }
   },
   {
@@ -666,9 +666,9 @@
       "title": "Artist 8 Poster 1",
       "artist": 8,
       "format_type": "vertical",
-      "image_path": "media/artist_8_1.jpg",
+      "image_path": "/media/artist_8_1.jpg",
       "is_new_arrival": true,
-      "price": "19.99"
+      "price": 19.99
     }
   },
   {
@@ -678,9 +678,9 @@
       "title": "Artist 8 Poster 2",
       "artist": 8,
       "format_type": "vertical",
-      "image_path": "media/artist_8_2.jpg",
+      "image_path": "/media/artist_8_2.jpg",
       "is_new_arrival": false,
-      "price": "19.99"
+      "price": 19.99
     }
   },
   {
@@ -690,9 +690,9 @@
       "title": "Artist 8 Poster 3",
       "artist": 8,
       "format_type": "horizontal",
-      "image_path": "media/artist_8_3.jpg",
+      "image_path": "/media/artist_8_3.jpg",
       "is_new_arrival": false,
-      "price": "19.99" 
+      "price": 19.99 
     }
   },
   {
@@ -702,9 +702,9 @@
       "title": "Artist 8 Poster 4",
       "artist": 8,
       "format_type": "vertical",
-      "image_path": "media/artist_8_4.jpg",
+      "image_path": "/media/artist_8_4.jpg",
       "is_new_arrival": false,
-      "price": "19.99" 
+      "price": 19.99 
     }
   },
   {
@@ -714,9 +714,9 @@
       "title": "Artist 8 Poster 5",
       "artist": 8,
       "format_type": "vertical",
-      "image_path": "media/artist_8_5.jpg",
+      "image_path": "/media/artist_8_5.jpg",
       "is_new_arrival": false,
-      "price": "19.99"
+      "price": 19.99
     }
   },
   {
@@ -726,9 +726,9 @@
       "title": "Artist 8 Poster 6",
       "artist": 8,
       "format_type": "vertical",
-      "image_path": "media/artist_8_6.jpg",
+      "image_path": "/media/artist_8_6.jpg",
       "is_new_arrival": true,
-      "price": "19.99"
+      "price": 19.99
     }
   },
   {
@@ -738,9 +738,9 @@
       "title": "Artist 8 Poster 7",
       "artist": 8,
       "format_type": "vertical",
-      "image_path": "media/artist_8_7.jpg",
+      "image_path": "/media/artist_8_7.jpg",
       "is_new_arrival": false,
-      "price": "19.99"
+      "price": 19.99
     }
   },
   {
@@ -750,9 +750,9 @@
       "title": "Artist 8 Poster 8",
       "artist": 8,
       "format_type": "vertical",
-      "image_path": "media/artist_8_8.jpg",
+      "image_path": "/media/artist_8_8.jpg",
       "is_new_arrival": false,
-      "price": "19.99"
+      "price": 19.99
     }
   },
   {
@@ -762,9 +762,9 @@
       "title": "Artist 8 Poster 9",
       "artist": 8,
       "format_type": "vertical",
-      "image_path": "media/artist_8_9.jpg",
+      "image_path": "/media/artist_8_9.jpg",
       "is_new_arrival": false,
-      "price": "19.99"
+      "price": 19.99
     }
   },
   {
@@ -774,9 +774,9 @@
       "title": "Artist 9 Poster 1",
       "artist": 9,
       "format_type": "vertical",
-      "image_path": "media/artist_9_1.jpg",
+      "image_path": "/media/artist_9_1.jpg",
       "is_new_arrival": false,
-      "price": "19.99"
+      "price": 19.99
     }
   },
   {
@@ -786,9 +786,9 @@
       "title": "Artist 9 Poster 2",
       "artist": 9,
       "format_type": "vertical",
-      "image_path": "media/artist_9_2.jpg",
+      "image_path": "/media/artist_9_2.jpg",
       "is_new_arrival": false,
-      "price": "19.99"
+      "price": 19.99
     }
   },
   {
@@ -798,9 +798,9 @@
       "title": "Artist 9 Poster 3",
       "artist": 9,
       "format_type": "vertical",
-      "image_path": "media/artist_9_3.jpg",
+      "image_path": "/media/artist_9_3.jpg",
       "is_new_arrival": true,
-      "price": "19.99"
+      "price": 19.99
     }
   },
   {
@@ -810,9 +810,9 @@
       "title": "Artist 9 Poster 4",
       "artist": 9,
       "format_type": "vertical",
-      "image_path": "media/artist_9_4.jpg",
+      "image_path": "/media/artist_9_4.jpg",
       "is_new_arrival": true,
-      "price": "19.99"
+      "price": 19.99
     }
   },
   {
@@ -822,9 +822,9 @@
       "title": "Artist 9 Poster 5",
       "artist": 9,
       "format_type": "horizontal",
-      "image_path": "media/artist_9_5.jpg",
+      "image_path": "/media/artist_9_5.jpg",
       "is_new_arrival": false,
-      "price": "19.99"
+      "price": 19.99
     }
   },
   {
@@ -834,9 +834,9 @@
       "title": "Artist 9 Poster 6",
       "artist": 9,
       "format_type": "vertical",
-      "image_path": "media/artist_9_6.jpg",
+      "image_path": "/media/artist_9_6.jpg",
       "is_new_arrival": false,
-      "price": "19.99"
+      "price": 19.99
     }
   },
   {
@@ -846,7 +846,7 @@
       "title": "Artist 9 Poster 7",
       "artist": 9,
       "format_type": "vertical",
-      "image_path": "media/artist_9_7.jpg",
+      "image_path": "/media/artist_9_7.jpg",
       "is_new_arrival": false,
       "price": "19.99"
     }
@@ -858,9 +858,9 @@
       "title": "Artist 9 Poster 8",
       "artist": 9,
       "format_type": "vertical",
-      "image_path": "media/artist_9_8.jpg",
+      "image_path": "/media/artist_9_8.jpg",
       "is_new_arrival": true,
-      "price": "19.99"
+      "price": 19.99
     }
   },
   {
@@ -870,9 +870,9 @@
       "title": "Artist 9 Poster 9",
       "artist": 9,
       "format_type": "vertical",
-      "image_path": "media/artist_9_9.jpg",
+      "image_path": "/media/artist_9_9.jpg",
       "is_new_arrival": true,
-      "price": "19.99"
+      "price": 19.99
     }
   },
   {
@@ -882,9 +882,9 @@
       "title": "Artist 9 Poster 10",
       "artist": 9,
       "format_type": "vertical",
-      "image_path": "media/artist_9_10.jpg",
+      "image_path": "/media/artist_9_10.jpg",
       "is_new_arrival": false,
-      "price": "19.99"
+      "price": 19.99
     }
   },
   {
@@ -894,9 +894,9 @@
       "title": "Artist 9 Poster 11",
       "artist": 9,
       "format_type": "vertical",
-      "image_path": "media/artist_9_11.jpg",
+      "image_path": "/media/artist_9_11.jpg",
       "is_new_arrival": false,
-      "price": "19.99"
+      "price": 19.99
     }
   },
   {
@@ -906,9 +906,9 @@
       "title": "Artist 9 Poster 12",
       "artist": 9,
       "format_type": "horizontal",
-      "image_path": "media/artist_9_12.jpg",
+      "image_path": "/media/artist_9_12.jpg",
       "is_new_arrival": false,
-      "price": "19.99"
+      "price": 19.99
     }
   },
   {
@@ -918,9 +918,9 @@
       "title": "Artist 10 Poster 1",
       "artist": 10,
       "format_type": "vertical",
-      "image_path": "media/artist_10_1.jpg",
+      "image_path": "/media/artist_10_1.jpg",
       "is_new_arrival": true,
-      "price": "19.99"
+      "price": 19.99
     }
   },
   {
@@ -930,9 +930,9 @@
       "title": "Artist 10 Poster 2",
       "artist": 10,
       "format_type": "vertical",
-      "image_path": "media/artist_10_2.jpg",
+      "image_path": "/media/artist_10_2.jpg",
       "is_new_arrival": true,
-      "price": "19.99"
+      "price": 19.99
     }
   },
   {
@@ -942,9 +942,9 @@
       "title": "Artist 10 Poster 3",
       "artist": 10,
       "format_type": "vertical",
-      "image_path": "media/artist_10_3.jpg",
+      "image_path": "/media/artist_10_3.jpg",
       "is_new_arrival": false,
-      "price": "19.99"
+      "price": 19.99
     }
   },
   {
@@ -954,9 +954,9 @@
       "title": "Artist 10 Poster 4",
       "artist": 10,
       "format_type": "vertical",
-      "image_path": "media/artist_10_4.jpg",
+      "image_path": "/media/artist_10_4.jpg",
       "is_new_arrival": false,
-      "price": "19.99"
+      "price": 19.99
     }
   },
   {
@@ -966,9 +966,9 @@
       "title": "Artist 10 Poster 5",
       "artist": 10,
       "format_type": "vertical",
-      "image_path": "media/artist_10_5.jpg",
+      "image_path": "/media/artist_10_5.jpg",
       "is_new_arrival": true,
-      "price": "19.99"
+      "price": 19.99
     }
   },
   {
@@ -978,9 +978,9 @@
       "title": "Artist 10 Poster 6",
       "artist": 10,
       "format_type": "vertical",
-      "image_path": "media/artist_10_6.jpg",
+      "image_path": "/media/artist_10_6.jpg",
       "is_new_arrival": false,
-      "price": "19.99"
+      "price": 19.99
     }
   },
   {
@@ -990,9 +990,9 @@
       "title": "Artist 11 Poster 1",
       "artist": 11,
       "format_type": "vertical",
-      "image_path": "media/artist_11_1.jpg",
+      "image_path": "/media/artist_11_1.jpg",
       "is_new_arrival": false,
-      "price": "19.99"
+      "price": 19.99
     }
   },
   {
@@ -1002,9 +1002,9 @@
       "title": "Artist 11 Poster 2",
       "artist": 11,
       "format_type": "vertical",
-      "image_path": "media/artist_11_2.jpg",
+      "image_path": "/media/artist_11_2.jpg",
       "is_new_arrival": false,
-      "price": "19.99"
+      "price": 19.99
     }
   },
   {
@@ -1014,9 +1014,9 @@
       "title": "Artist 11 Poster 3",
       "artist": 11,
       "format_type": "vertical",
-      "image_path": "media/artist_11_3.jpg",
+      "image_path": "/media/artist_11_3.jpg",
       "is_new_arrival": true,
-      "price": "19.99"
+      "price": 19.99
     }
   },
   {
@@ -1026,9 +1026,9 @@
       "title": "Artist 11 Poster 4",
       "artist": 11,
       "format_type": "vertical",
-      "image_path": "media/artist_11_4.jpg",
+      "image_path": "/media/artist_11_4.jpg",
       "is_new_arrival": false,
-      "price": "19.99"
+      "price": 19.99
     }
   },
   {
@@ -1038,9 +1038,9 @@
       "title": "Artist 11 Poster 5",
       "artist": 11,
       "format_type": "horizontal",
-      "image_path": "media/artist_11_5.jpg",
+      "image_path": "/media/artist_11_5.jpg",
       "is_new_arrival": false,
-      "price": "19.99"
+      "price": 19.99
     }
   },
   {
@@ -1050,9 +1050,9 @@
       "title": "Artist 11 Poster 6",
       "artist": 11,
       "format_type": "horizontal",
-      "image_path": "media/artist_11_6.jpg",
+      "image_path": "/media/artist_11_6.jpg",
       "is_new_arrival": false,
-      "price": "19.99"
+      "price": 19.99
     }
   }
   

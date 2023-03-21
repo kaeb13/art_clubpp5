@@ -19,7 +19,7 @@ class Poster(models.Model):
     title = models.CharField(max_length=80)
     artist = models.ForeignKey(Artist, on_delete=models.CASCADE)
     format_type = models.CharField(max_length=15, choices=FORMAT_CHOICES)
-    image_path = models.CharField(max_length=155)
+    image_path = models.ImageField(upload_to='posters/')
     is_new_arrival = models.BooleanField()
     price = models.DecimalField(max_digits=10, decimal_places=2, default=0.00)
 

@@ -1,0 +1,39 @@
+{% extends "base.html" %}
+{% load static %}
+
+{% block page_header %}
+    <div class="container header-container">
+        <div class="row">
+            <div class="col"></div>
+        </div>
+    </div>
+{% endblock %}
+
+{% block content %}
+    <div class="container">
+        <div class="row">
+            {% for product in products %}
+                <div class="col-md-4">
+                    <h3>{{ product.title }}</h3>
+                    <img src="{{ product.image_path }}" alt="{{ product.title }}" class="img-fluid">
+                    <p>Artist: {{ product.artist.name }}</p>
+                    <p>Format: {{ product.get_format_type_display }}</p>
+                    <p>Price: ${{ product.price }}</p>
+                    <a href="{% url 'product_detail' product.pk %}" class="btn btn-primary">View Details</a>
+                </div>
+            {% empty %}
+                <div class="col">
+                    <p>No products available.</p>
+                </div>
+            {% endfor %}
+        </div>
+    </div>
+    <form method="GET">
+        <div class="input-group">
+            <input type="text" class="form-control" placeholder="Search" name="q">
+            <div class="input-group-append">
+                <button class="btn btn-outline-secondary" type="submit"><i class="fas fa-search"></i></button>
+            </div>
+        </div>
+    </form>
+{% endblock %}
