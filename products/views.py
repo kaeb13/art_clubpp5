@@ -11,6 +11,7 @@ def all_products(request):
 
     products = Poster.objects.all()
     query = None
+    sort = None
 
     if request.GET:
         if 'q' in request.GET:
@@ -18,9 +19,9 @@ def all_products(request):
             if not query:
                 messages.error(request, "You didn't enter any search criteria!")
                 return redirect(reverse('products'))
-            
+
             queries = Q(title__icontains=query) | Q(artist__name__icontains=query)
-            products = products.filter(queries) 
+            products = products.filter(queries)
 
         if 'sort' in request.GET:
             sort = request.GET['sort']
@@ -28,7 +29,7 @@ def all_products(request):
                 products = products.order_by('artist__name')
             elif sort == 'format':
                 products = products.order_by('format_type')
-        
+
         if 'new_arrivals' in request.GET:
             new_arrivals = request.GET['new_arrivals']
             if new_arrivals == 'true':
@@ -37,10 +38,10 @@ def all_products(request):
     context = {
         'products': products,
         'search_term': query,
+        'sort': sort,
     }
 
     return render(request, 'products/products.html', context)
-    
 
 def product_detail(request, pk):
     """ A view to show the details of a single product """
