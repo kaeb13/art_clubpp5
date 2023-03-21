@@ -5,10 +5,10 @@
                 All Posters
             </a>
             <div class="dropdown-menu border-0" aria-labelledby="all-products-link">
-                <a href="" class="dropdown-item">By Size</a>
-                <a href="" class="dropdown-item ">By Artist</a>
-                <a href="" class="dropdown-item ">By Style</a>
                 <a href="{% url 'products' %}" class="dropdown-item">All Posters</a>
+                <a href="{% url 'products' %}?sort=artist" class="dropdown-item">By Artist</a>
+                <a href="{% url 'products' %}?sort=format" class="dropdown-item ">By Format</a>
+                <a href="{% url 'products' %}?new_arrivals=true" class="dropdown-item">New Arrivals</a>
             </div>
         </li>
 
@@ -17,10 +17,8 @@
                 New Arrivals
             </a>
             <div class="dropdown-menu border-0" aria-labelledby="new-arrivals-link">
-                <a href="" class="dropdown-item">Featured Artists</a>
-                <a href="" class="dropdown-item">Trending Now</a>
-                <a href="" class="dropdown-item">Limited Edition</a>
                 <a href="" class="dropdown-item">All New Arrivals</a>
             </div>
         </li>
-    </div>
+    </ul>
+</div>
