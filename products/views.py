@@ -2,6 +2,9 @@ from django.shortcuts import render, redirect, reverse, get_object_or_404
 from django.contrib import messages
 from .models import Poster
 from django.db.models import Q
+from products.models import Artist, Poster
+
+
 
 # Create your views here.
 
@@ -51,3 +54,21 @@ def product_detail(request, pk):
         'product': product,
     }
     return render(request, 'products/product_detail.html', context)
+
+
+def add_to_bag(request, item_id):
+    """ Add a quantity of the specified product to the shopping bag """
+
+    poster = get_object_or_404(Poster, pk=item_id)
+    quantity = int(request.POST.get('quantity'))
+    redirect_url = request.POST.get('redirect_url')
+    bag = request.session.get('bag', {})
+
+    if item_id in list(bag.keys()):
+        bag[item_id] += quantity
+    else:
+        bag[item_id] = quantity
+
+    request.session['bag'] = bag
+    return redirect(redirect_url)  
+

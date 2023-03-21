@@ -1,8 +1,10 @@
 from decimal import Decimal
 from django.conf import settings
+from products.models import Poster
 
 
 def bag_contents(request):
+
     bag = request.session.get('bag', {})
     
     bag_items = []
@@ -11,7 +13,7 @@ def bag_contents(request):
 
     for item_id, item_data in bag.items():
         if isinstance(item_data, int):
-            product = Product.objects.get(id=item_id)
+            product = Poster.objects.get(id=item_id)
             total += item_data * product.price
             product_count += item_data
             bag_items.append({
@@ -20,7 +22,7 @@ def bag_contents(request):
                 'product': product,
             })
         else:
-            product = Product.objects.get(id=item_id)
+            product = Poster.objects.get(id=item_id)
             for size, quantity in item_data['items_by_size'].items():
                 total += quantity * product.price
                 product_count += quantity
