@@ -1,4 +1,4 @@
-from django.shortcuts import render
+from django.shortcuts import render, redirect, get_object_or_404, HttpResponse
 
 # Create your views here.
 
@@ -10,33 +10,50 @@ def view_bag(request):
 
 
 def add_to_bag(request, item_id):
-    product = get_object_or_404(Product, pk=item_id)
-    form = BagForm(request.POST or None, initial={'product_id': item_id})
-    if request.method == 'POST':
-        if form.is_valid():
-            bag = request.session.get('bag', {})
-            quantity = form.cleaned_data['quantity']
-            size = form.cleaned_data.get('size', None)
-            if size:
-                item_data = {'size': size, 'quantity': quantity}
-            else:
-                item_data = quantity
-            bag[item_id] = bag.get(item_id, {})
-            if size:
-                if size in bag[item_id]['items_by_size'].keys():
-                    bag[item_id]['items_by_size'][size] += quantity
-                    messages.success(request, f'Updated size {size.upper()} {product.name} quantity to {bag[item_id]["items_by_size"][size]}')
-                else:
-                    bag[item_id]['items_by_size'][size] = quantity
-                    messages.success(request, f'Added size {size.upper()} {product.name} to your bag')
-            else:
-                bag[item_id] = quantity
-                messages.success(request, f'Added {product.name} to your bag')
-            request.session['bag'] = bag
-            return redirect(reverse('view_bag'))
-    context = {
-        'form': form,
-        'product': product,
-    }
-    context.update(get_bag_items(request))
-    return render(request, 'products/product_details.html', context)    
+    """ Add a quantity of the specified product to the shopping bag """
+
+    poster = get_object_or_404(Poster, pk=item_id)
+    quantity = int(request.POST.get('quantity'))
+    redirect_url = request.POST.get('redirect_url')
+    bag = request.session.get('bag', {})
+
+    if item_id in list(bag.keys()):
+        bag[item_id] += quantity
+    else:
+        bag[item_id] = quantity
+
+    request.session['bag'] = bag
+    return redirect(redirect_url)
+
+
+def adjust_bag(request, item_id):
+    """Adjust the quantity of the specified product to the specified amount"""
+
+    poster = get_object_or_404(Poster, pk=item_id)
+    quantity = int(request.POST.get('quantity'))
+    bag = request.session.get('bag', {})
+
+    if quantity > 0:
+        bag[item_id] = quantity
+    else:
+        bag.pop(item_id)
+
+    request.session['bag'] = bag
+    return redirect(reverse('view_bag'))
+
+
+def remove_from_bag(request, item_id):
+    """Remove the item from the shopping bag"""
+
+    try:
+        poster = get_object_or_404(Poster, pk=item_id)
+        bag = request.session.get('bag', {})
+
+        bag.pop(item_id)
+        request.session['bag'] = bag
+        return HttpResponse(status=200)
+
+    except Exception as e:
+        return HttpResponse(status=500)    
+
+
